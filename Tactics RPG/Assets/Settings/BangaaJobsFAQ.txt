@@ -1,7 +1,0 @@
-Warrior
-Dragoon
-Defender
-Gladiator
-White Monk
-Bishop
-Templar
